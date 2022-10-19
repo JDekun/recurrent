@@ -29,3 +29,4 @@ Contrastive_Learning/InstDisc/*.pth
 ### Contrastive_Learning/simclr1
 Contrastive_Learning/simclr1/results/
 Contrastive_Learning/simclr1/wandb/
+Contrastive_Learning/simclr1/__pycache__

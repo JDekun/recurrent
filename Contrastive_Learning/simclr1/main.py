@@ -29,7 +29,7 @@ import numpy as np
 from io_utils import set_seed, parse_args
 args = parse_args('main')
 
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
+os.environ["CUDA_VISIBLE_DEVICES"] = '7'
 os.environ["WANDB_API_KEY"] = 'ae69f83abb637683132c012cd248d4a14177cd36'
 os.environ['WANDB_MODE'] = args.wandb
 
