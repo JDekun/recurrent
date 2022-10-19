@@ -1,3 +1,4 @@
+### Contrastive_Learning/Detectron2_Tutorial
 Contrastive_Learning/Detectron2_Tutorial/__MACOSX/balloon
 Contrastive_Learning/Detectron2_Tutorial/balloon
 
@@ -8,3 +9,7 @@ Contrastive_Learning/Detectron2_Tutorial/video-output.mkv
 
 Contrastive_Learning/Detectron2_Tutorial/output/model_final.pth
 Contrastive_Learning/Detectron2_Tutorial/output/instances_predictions.pth
+
+### Contrastive_Learning/MoCo
+Contrastive_Learning/MoCo/detection/Pretrained_Model
+Contrastive_Learning/MoCo/detection/output
