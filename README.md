@@ -1,1 +1,1 @@
-# recurrent repo only for studying personally
+# Recurrent repo only for studying personally
