@@ -13,3 +13,19 @@ Contrastive_Learning/Detectron2_Tutorial/output/instances_predictions.pth
 ### Contrastive_Learning/MoCo
 Contrastive_Learning/MoCo/detection/Pretrained_Model
 Contrastive_Learning/MoCo/detection/output
+
+### Contrastive_Learning/InstDisc
+Contrastive_Learning/InstDisc/data/*
+Contrastive_Learning/InstDisc/checkpoint/*
+Contrastive_Learning/InstDisc/logs/*
+Contrastive_Learning/InstDisc/runs/*
+
+Contrastive_Learning/InstDisc/*.pyc
+Contrastive_Learning/InstDisc/*.bak
+Contrastive_Learning/InstDisc/*.log
+Contrastive_Learning/InstDisc/*.tar
+Contrastive_Learning/InstDisc/*.pth
+
+### Contrastive_Learning/simclr1
+Contrastive_Learning/simclr1/results/
+Contrastive_Learning/simclr1/wandb/
